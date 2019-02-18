@@ -1,0 +1,228 @@
+﻿{
+  "geonames": [
+    {
+      "title": "종합스타디움",
+      "elevation": 40,
+      "lat": 37.629770,
+      "lng": 127.078162,
+      "tag": 42,
+      "url":"http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=063&pic=SNUST1489385072505.png"
+    },
+    {
+      "title":"아름관",
+      "elevation":45,
+      "lat":37.629964,
+      "lng":127.080883,
+      "tag" : 38,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=054&pic=SNUST1446175753571.jpg"
+    },
+    {
+      "title":"미래관",
+      "elevation":47,
+      "lat":37.629295,
+      "lng":127.081524,
+      "tag" : 44,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=060&pic=SNUST1446176176382.jpg"
+    },
+    {
+      "title":"학군단",
+      "elevation":48,
+      "lat":37.628729,
+      "lng":127.081330,
+      "tag" : 43,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=059&pic=SNUST1446176131424.jpg"
+    },
+    {
+      "title":"대륙관",
+      "elevation":45,
+      "lat":37.629273,
+      "lng":127.080556,
+      "tag" : 40,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=056&pic=SNUST1446175982455.jpg"
+    },
+    {
+      "title":"체육관",
+      "elevation":45,
+      "lat":37.629140,
+      "lng":127.079485,
+      "tag" : 39,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=055&pic=SNUST1446175816090.jpg"
+    },
+    {
+      "title":"무궁관",
+      "elevation": 47,
+      "lat":37.630621,
+      "lng":127.081477,
+      "tag" : 41,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=057&pic=SNUST1446176028036.jpg"
+    },
+    {
+      "title":"정문",
+      "elevation":32,
+      "lat":37.630045,
+      "lng":127.076475,
+      "tag" :37,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=013&pic=SNUST14893821371831.png"
+    },
+    {
+      "title":"제2학생회관",
+      "elevation":38,
+      "lat":37.630749,
+      "lng":127.079290,
+      "tag" : 36,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=052&pic=SNUST1446175533971.jpg"
+    },
+    {
+      "title":"100주년기념관",
+      "elevation":34,
+      "lat":37.630693,
+      "lng":127.078362,
+      "tag" : 35,
+      "url": "http://www.seoultech.ac.kr/site/www/intro/map/building_info.jsp?id=051&pic=SNUST1446176431182.jpg"
+    }
+//  ,
+//    {
+//      "title": "월곡 레미안",
+//      "elevation": 34,
+//      "lat": 37.599146287753385,
+//      "lng": 127.04204583142273,
+//      "tag": 45,
+//      "url": ""
+//    }
+//    {
+//      "title":"다산관",
+//      "elevation":38,
+//      "distance":"0",
+//      "lat":37.632397,
+//      "lng":127.078035
+//    },
+//    {
+//      "title":"창업보육센터",
+//      "elevation":32,
+//      "distance":"0",
+//      "lat":37.630834,
+//      "lng":127.075846
+//    },
+//    {
+//      "title":"하이테크관",
+//      "elevation":34,
+//      "distance":"0",
+//      "lat":37.632087,
+//      "lng":127.076232
+//    },
+//    {
+//      "title":"중앙도서관",
+//      "elevation":37,
+//      "distance":"0",
+//      "lat":37.632860,
+//      "lng":127.076774
+//    },
+//    {
+//      "title":"창학관",
+//      "elevation":42,
+//      "distance":"0",
+//      "lat":37.632338,
+//      "lng":127.079446
+//    },
+//    {
+//      "title":"중앙도서관별관",
+//      "elevation":38,
+//      "distance":"0",
+//      "lat":37.633625,
+//      "lng":127.076710
+//    },
+//    {
+//      "title":"어의관",
+//      "elevation":47,
+//      "distance":"0",
+//      "lat":37.635242,
+//      "lng":127.076809
+//    },
+//    {
+//      "title":"수연관",
+//      "elevation":37,
+//      "distance":"0",
+//      "lat":37.633332,
+//      "lng":127.077117
+//    },
+//    {
+//      "title":"제1학생회관",
+//      "elevation":40,
+//      "distance":"0",
+//      "lat":37.634126,
+//      "lng":127.076946
+//    },
+//    {
+//      "title":"어학원",
+//      "elevation":43,
+//      "distance":"0",
+//      "lat":37.634848,
+//      "lng":127.077498
+//    },
+//    {
+//      "title":"다빈치관",
+//      "elevation":44,
+//      "distance":"0",
+//      "lat":37.635256,
+//      "lng":127.078845
+//    },
+//    {
+//      "title":"기숙사",
+//      "elevation":41,
+//      "distance":"0",
+//      "lat":37.635252,
+//      "lng":127.076120
+//    },
+//    {
+//      "title":"창조관",
+//      "elevation":49,
+//      "distance":"0",
+//      "lat":37.634755,
+//      "lng":127.079322
+//    },
+//    {
+//      "title":"청운관",
+//      "elevation":57,
+//      "distance":"0",
+//      "lat":37.633344,
+//      "lng":127.080749
+//    },
+//    {
+//      "title":"파워플랜트",
+//      "elevation":45,
+//      "distance":"0",
+//      "lat":37.633582,
+//      "lng":127.079344
+//    },
+//    {
+//      "title":"대학본부",
+//      "elevation":41,
+//      "distance":"0",
+//      "lat":37.631764,
+//      "lng":127.080261
+//    },
+//    {
+//      "title":"제2창업보육센터",
+//      "elevation":42,
+//      "distance":"0",
+//      "lat":37.631666,
+//      "lng":127.081098
+//    },
+//    {
+//      "title":"혜성관",
+//      "elevation":41,
+//      "distance":"0",
+//      "lat":37.631713,
+//      "lng":127.081929
+//    },
+//    {
+//      "title":"공간사랑채",
+//      "elevation":40,
+//      "distance":"0",
+//      "lat":37.630719,
+//      "lng":127.080336
+//    },
+
+  ]
+}
+

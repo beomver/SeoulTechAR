@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/loading"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="286.66dp"
+        android:layout_height="50.406dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo_main"
+        android:contentDescription=""
+        tools:ignore="ContentDescription" />
+    <!--"860px / 151.22px"-->
+
+</LinearLayout>

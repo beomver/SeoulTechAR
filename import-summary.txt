@@ -1,0 +1,69 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From mixare:
+* COPYING
+* docs\
+* docs\UML\
+* docs\UML\DataFlow.jpg
+* docs\UML\ManagersClassDiagram.mgc
+* docs\UML\ManagersClassDiagram.png
+* docs\UML\UML.jpg
+From mixare-library:
+* .externalToolBuilders\
+* .externalToolBuilders\mixare-ant-builder.launch
+* AndroidManifest.xml
+* build.xml
+* lint.xml
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In mixare-library:
+* src\ => mixarelibrary\src\main\java\
+* src\kunpeng\ar\lib\gui\Label.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\gui\Label.aidl
+* src\kunpeng\ar\lib\gui\PaintScreen.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\gui\PaintScreen.aidl
+* src\kunpeng\ar\lib\gui\TextObj.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\gui\TextObj.aidl
+* src\kunpeng\ar\lib\marker\draw\ClickHandler.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\marker\draw\ClickHandler.aidl
+* src\kunpeng\ar\lib\marker\draw\DrawCommand.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\marker\draw\DrawCommand.aidl
+* src\kunpeng\ar\lib\marker\draw\ParcelableProperty.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\marker\draw\ParcelableProperty.aidl
+* src\kunpeng\ar\lib\marker\draw\PrimitiveProperty.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\marker\draw\PrimitiveProperty.aidl
+* src\kunpeng\ar\lib\marker\InitialMarkerData.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\marker\InitialMarkerData.aidl
+* src\kunpeng\ar\lib\render\ARVector.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\render\ARVector.aidl
+* src\kunpeng\ar\lib\render\Camera.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\render\Camera.aidl
+* src\kunpeng\ar\lib\service\IBootStrap.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\service\IBootStrap.aidl
+* src\kunpeng\ar\lib\service\IDataHandlerService.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\service\IDataHandlerService.aidl
+* src\kunpeng\ar\lib\service\IMarkerService.aidl => mixarelibrary\src\main\aidl\kunpeng\ar\lib\service\IMarkerService.aidl
+In mixare:
+* c.PNG => c.png
+* AndroidManifest.xml => mixare\src\main\AndroidManifest.xml
+* lint.xml => mixare\lint.xml
+* res\ => mixare\src\main\res\
+* src\ => mixare\src\main\java\
+* l.PNG => l.png
+* r.PNG => r.png
+* s.PNG => s.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
